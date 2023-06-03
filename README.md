@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world.
-- 👀 I’m interested in Machine Learning, Data Science and Cloud Engineering.
+- 👀 I’m interested in Machine Learning, Data Science and Software Engineering.
 - 🌱 I’m currently Studying Bachelor of Science in Information Technology at NEUST Sumacab Campus.
 
 <!---
