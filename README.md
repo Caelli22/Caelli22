@@ -10,7 +10,7 @@
 <h3 align="center"> A passionate BSIT student from Central Luzon</h3>
 
 <div align="center">
-  <p>👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world. I’m interested in Machine Learning, Data Science and Software Engineering.
+  <p>👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world. I’m interested in Database Systems, Data Science and Software Engineering.
     I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. </p>
 </div>
 <br/>
