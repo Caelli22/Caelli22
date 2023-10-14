@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Caelli22.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Caelli22.Caelli22" />
 
 - 👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world.
 - 👀 I’m interested in Machine Learning, Data Science and Software Engineering.
