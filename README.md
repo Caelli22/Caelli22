@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Caelli22.Caelli22" />
+<br/>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -11,10 +13,19 @@
   <p>👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world. I’m interested in Machine Learning, Data Science and Software Engineering.
     I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. </p>
 </div>
-
 <br/>
-
- <hr/>
+<hr/>
+<div align="center"> 
+  <a href="mailto:davebryanico@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discordapp.com/users/417200536732041216" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/kaeli.leiven/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <br/>
