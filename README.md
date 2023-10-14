@@ -14,7 +14,6 @@
     I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. </p>
 </div>
 <br/>
-<hr/>
 <div align="center"> 
   <a href="mailto:davebryanico@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -26,6 +25,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
+<hr/>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <br/>
