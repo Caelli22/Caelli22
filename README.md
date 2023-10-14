@@ -7,11 +7,27 @@
 
 <h3 align="center"> A passionate BSIT student from Central Luzon</h3>
 
+<div align="center">
+  <p>👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world. I’m interested in Machine Learning, Data Science and Software Engineering.
+    I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. </p>
+</div>
+
 <br/>
 
-- 👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world.
-- 👀 I’m interested in Machine Learning, Data Science and Software Engineering.
-- 🌱 I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. 
+ <hr/>
+
+<h2 align="left">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,cpp,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+ 
+
 
 <!---
 Caelli22/Caelli22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
