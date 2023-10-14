@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Caelli22.visitor-badge" />
+
 - 👋 Hi, I’m @Caelli22 or Dave Bryan Ico in real world.
 - 👀 I’m interested in Machine Learning, Data Science and Software Engineering.
 - 🌱 I’m currently Studying Bachelor of Science in Information Technology (Major in Database Systems) at NEUST Sumacab Campus. 
