@@ -22,14 +22,17 @@
     <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,cpp,java,mysql" /><br>
 </div>
-
 <br/>
 <hr/>
 
- 
+<h2 align="left">Statistics</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Caelli22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Caelli22&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caelli22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-
-<!---
-Caelli22/Caelli22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+<br/>
