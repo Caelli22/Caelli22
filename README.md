@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=279AF1&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome!+;I'm+Bryan" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> A Software Developer from Central Luzon</h3>
+<h3 align="center"> A BSIT Student from Central Luzon</h3>
 
 <div align="center">
-  <p>👋 Hi, I’m @Caelli22. I’m interested in Database Systems, Data Science and Software Engineering. </p>
+  <p>👋 Hi, I’m @Caelli22. I’m interested in Database Systems, Data Mining/Warehousing and Software Engineering. </p>
 </div>
 <br/>
 <div align="center"> 
