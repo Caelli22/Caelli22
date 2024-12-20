@@ -34,6 +34,16 @@
 <br/>
 <hr/>
 
+<h2 align="left">Certifications</h2>
+<br/>
+<div align="left">
+  <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=467&cvid=JMimoIFF9DEOK3VorQ1v9g==" target="_blank">
+    <img src="https://github.com/Caelli22/Caelli22/blob/main/badges/it-specialist-databases.png" alt="Certiport IT Specialist" width="120" />
+  </a>
+  <p>🌟 Certiport IT Specialist - Databases</p>
+</div>
+<hr/>
+
 <h2 align="left">Statistics</h2>
 <br>
 
