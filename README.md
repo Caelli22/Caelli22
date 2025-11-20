@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=279AF1&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome!+;I'm+Bryan" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> Motivated BSIT graduate and Passionate about development and committed to continuous learning in software engineering, data mining and data warehousing.</h3>
+<h3 align="center"> IT Specialist | System Administration | PHP Web App Developer | Computer Information Systems | IT Infrastructure Management </h3>
 
 <div align="center">
-  <p>👋 Hi, I’m @Caelli22. I’m interested in Database Systems, Data Mining/Warehousing and Software Engineering. </p>
+  <p>👋 Hi, I’m @Caelli22. I’m interested and passionate about development and committed to continuous learning in software engineering, data mining and data warehousing. </p>
 </div>
 <br/>
 <div align="center"> 
